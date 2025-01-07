@@ -5,9 +5,9 @@
 <p align="center">🤍 Knowledge in C++, HTML, CSS, Javascript, Python, Matlab, and more</p>
 <p align="center">💫 I'm really passionate about technology and women in STEM! </p>
 
+<a href="https://github.com/georgiapoppy/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgiapoppy&layout=compact&langs_count=8&card_width=250" />
+</a>
 <a href="https://github.com/georgiapoppy/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=georgiapoppy&hide=contribs,prs&rank_icon=github" />
-</a>
-<a href="https://github.com/georgiapoppy/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgiapoppy&layout=compact&langs_count=8&card_width=320" />
 </a>
