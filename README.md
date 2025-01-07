@@ -5,3 +5,6 @@ Hi! My name is Georgia Mason :)
   🤍 Knowledge in C++, HTML, CSS, Javascript, Python, Matlab, and more
 
   💫 I'm really passionate about technology and women in STEM! 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=georgiapoppy)](https://github.com/georgiapoppy/github-profile-trophy)
