@@ -6,5 +6,4 @@ Hi! My name is Georgia Mason :)
 
   💫 I'm really passionate about technology and women in STEM! 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=georgiapoppy)](https://github.com/georgiapoppy/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgiapoppy)](https://github.com/anuraghazra/github-readme-stats)
