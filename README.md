@@ -6,4 +6,4 @@ Hi! My name is Georgia Mason :)
 
   💫 I'm really passionate about technology and women in STEM! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgiapoppy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgiapoppy&layout=compact)
