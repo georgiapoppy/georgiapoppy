@@ -4,6 +4,6 @@
 <p align="center">🤍 Knowledge in C++, HTML, CSS, Javascript, Python, Matlab, and more</p>
 
 <div align="center" style="display: flex; flex-direction: row;">
- <img class="img" height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=georgiapoppy&layout=compact&langs_count=8" />
- <img class="img" height=170 src="https://github-readme-stats.vercel.app/api?username=georgiapoppy&hide=contribs,prs&rank_icon=github" />
+ <img class="img" height=150 width=auto src="https://github-readme-stats.vercel.app/api/top-langs?username=georgiapoppy&layout=compact&langs_count=8" />
+ <img class="img" height=150 width=auto src="https://github-readme-stats.vercel.app/api?username=georgiapoppy&hide=contribs,prs&rank_icon=github" />
 </div>
