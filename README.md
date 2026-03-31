@@ -5,10 +5,6 @@
 <p align="center">🤍 Experienced in Python, C++, HTML, CSS, Javascript, Git, and more</p>
 
 <div align="center" style="display: flex; flex-direction: row;">
- <a href="https://github.com/georgiapoppy/github-readme-stats" >
-   <img src="https://github-readme-stats-mirror.vercel.app/api?username=georgiapoppy&show_icons=true&hide=contribs,prs&rank_icon=github" />
- </a>
- <a href="https://github.com/georgiapoppy/convoychat">
-   <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs?username=georgiapoppy&layout=compact&langs_count=6" />
- </a>
+ <img src="https://github-readme-stats-mirror.vercel.app/api?username=georgiapoppy&show_icons=true&hide=contribs,prs&rank_icon=github" />
+ <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs?username=georgiapoppy&layout=compact&langs_count=6" />
 </div>
